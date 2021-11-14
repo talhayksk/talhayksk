@@ -12,9 +12,9 @@ I add my own work and projects that I have done while learning as open source to
 ### You can contact me on my linkedin and twitter accounts:<br>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/talha-yüksek-67b761171/) 
 [![twitter](https://img.shields.io/badge/-twitter-000?style=quare&labelColor=000&logo=twitter&logoColor=white&link=link)](https://twitter.com/talhayksk) 
+### 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=talhayksk&show_icons=true&theme=radical)
 
-
-(https://github-readme-stats.vercel.app/api?username=talhayksk&show_icons=true&theme=radical)
 
 **talhayksk/talhayksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
