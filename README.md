@@ -9,9 +9,10 @@ I add my own work and projects that I have done while learning as open source to
   <li>🌱 I continue to learn react native </li>
 </ul>
 
-### You can contact me on my linkedin and twitter accounts:<br>
+### You can contact me on my linkedin, twitter and youtube  accounts:<br>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/talha-yüksek-67b761171/) 
 [![twitter](https://img.shields.io/badge/-twitter-000?style=quare&labelColor=000&logo=twitter&logoColor=white&link=link)](https://twitter.com/talhayksk) 
+[![youtube](https://img.shields.io/badge/-youtube-000?style=quare&labelColor=000&logo=youtube&logoColor=white&link=link)](https://www.youtube.com/channel/UCxQh66f0g8aekSGKQyx8DIw) 
 ### 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=talhayksk&show_icons=true&theme=radical)
 
