@@ -11,8 +11,8 @@ I add my own work and projects that I have done while learning as open source to
 
 ### You can contact me on my linkedin, twitter and youtube  accounts:<br>
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?style=quare&labelColor=000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/talha-yüksek-67b761171/) 
-[![Twitter](https://img.shields.io/badge/-twitter-000?style=quare&labelColor=000&logo=Twitter&logoColor=white&link=link)](https://twitter.com/talhayksk) 
-[![Youtube](https://img.shields.io/badge/-youtube-000?style=quare&labelColor=000&logo=Youtube&logoColor=white&link=link)](https://www.youtube.com/channel/UCxQh66f0g8aekSGKQyx8DIw) 
+[![Twitter](https://img.shields.io/badge/-Twitter-000?style=quare&labelColor=000&logo=Twitter&logoColor=white&link=link)](https://twitter.com/talhayksk) 
+[![Youtube](https://img.shields.io/badge/-Youtube-000?style=quare&labelColor=000&logo=Youtube&logoColor=white&link=link)](https://www.youtube.com/channel/UCxQh66f0g8aekSGKQyx8DIw) 
 ### 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=talhayksk&show_icons=true&theme=radical)
 
