@@ -6,7 +6,7 @@ I add my own work and projects that I have done while learning as open source to
 
 <ul>
   <li> 🔭 <a href="https://openlayers.org"> I've just started learning openlayers</a> </li>
-  <li>🌱 I continue to learn react native </li>
+  <li>🌱 I continue to learn react and react native </li>
 </ul>
 
 ### You can contact me on my linkedin, twitter and youtube  accounts:<br>
