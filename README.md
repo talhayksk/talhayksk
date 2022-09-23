@@ -5,8 +5,9 @@ I add my own work and projects that I have done while learning as open source to
 </b> <br>
 
 <ul>
-  <li> 🔭 <a href="https://openlayers.org"> I've just started learning openlayers</a>  and maps software </li>
+  <li>🔭 <a href="https://openlayers.org"> I've just started learning openlayers</a>  and maps software </li>
   <li>🌱 I continue to learn React, React Native, Microservice ,RabbitMQ ,Azure Event Bus and Desing Pattern </li>
+  <li>🔭 What I'm aiming to learn is Svelte,CQRS,MediaR,socketIO,GrapQL,Tailwindcss,MongoDb</li>
 </ul>
 
 ### You can contact me on my linkedin, twitter and youtube  accounts:<br>
